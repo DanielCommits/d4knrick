@@ -35,7 +35,7 @@ const projects = [
     description:
       "A space for real connections. No noise. Just you and your people. Your feed stays alive with the latest conversations and vibes from people that matter.",
     image: "/pulse-socialmediaapp.png",
-    technologies: ["Next.js", "Firestore", "React DnD", "Vercel"],
+    technologies: ["Next.js", "Firestore", "React DnD", "Vercel", "Tailwind CSS", "TypeScript"],
     github: "https://github.com/DanielCommits/d4knrick",
     live: "https://d4knrick.vercel.app/",
   },
