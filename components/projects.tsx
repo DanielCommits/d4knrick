@@ -31,13 +31,13 @@ const projects = [
     live: "https://footyflix.vercel.app/",
   },
   {
-    title: "Portfolio CMS",
+    title: "Pulse – Social Media App",
     description:
-      "Headless CMS for creative professionals with drag-and-drop builder and custom themes.",
-    image: "/cms-dashboard-interface.jpg",
-    technologies: ["Next.js", "Sanity", "React DnD", "Vercel"],
-    github: "#",
-    live: "#",
+      "A space for real connections. No noise. Just you and your people. Your feed stays alive with the latest conversations and vibes from people that matter.",
+    image: "/pulse-socialmediaapp.png",
+    technologies: ["Next.js", "Firestore", "React DnD", "Vercel"],
+    github: "https://github.com/DanielCommits/d4knrick",
+    live: "https://d4knrick.vercel.app/",
   },
 ];
 
