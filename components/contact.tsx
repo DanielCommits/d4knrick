@@ -147,7 +147,7 @@ export function Contact() {
 
         <div className="mt-20 pt-8 border-t border-border text-center">
           <p className="text-sm text-muted-foreground">
-            © 2025 Omoare Daniel. Built with Next.js and Tailwind CSS.
+            © 2026 Omoare Daniel. Built with Next.js and Tailwind CSS.
           </p>
         </div>
       </div>

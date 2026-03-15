@@ -86,7 +86,7 @@ export function Hero() {
                 <Linkedin className="w-6 h-6" />
               </a>
               <a
-                href="https://x.com/thebigggdan"
+                href="https://x.com/d4knrick"
                 className="text-muted-foreground hover:text-accent transition-colors"
               >
                 <Twitter className="w-6 h-6" />
