@@ -16,8 +16,8 @@ const experiences = [
       "Led integration of privacy controls and content moderation for safe, genuine conversations",
       "Mentored development team in building scalable social platforms with focus on user experience",
     ],
-    technologies: ["Next.js", "TypeScript", "JavasScript", "Firebase"],
-    link: "#",
+    technologies: ["Next.js", "TypeScript", "JavaScript", "Firebase"],
+    link: "https://pulseit.vercel.app",
   },
   {
     period: "2024 — Present",
@@ -33,7 +33,7 @@ const experiences = [
       "Mentored junior developers in best practices for scalable web applications",
     ],
     technologies: ["Next.js", "TypeScript", "AWS", "PostgreSQL", "Docker"],
-    link: "#",
+    link: "https://footyfrenzy.vercel.app",
   },
   {
     period: "2023-2024",
@@ -61,7 +61,6 @@ const experiences = [
       "Managed client communications and project timelines from start to finish",
     ],
     technologies: ["React", "JavaScript", "Sass", "Figma"],
-    link: "#",
   },
 ];
 
