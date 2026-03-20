@@ -3,6 +3,23 @@ import { Badge } from "@/components/ui/badge";
 
 const experiences = [
   {
+    period: "2025 — Present",
+    role: "Senior Full Stack Developer",
+    company: "Pulse",
+    description:
+      "Leading the development of Pulse, a social media platform designed for real connections. Built systems to foster meaningful interactions and curate personalized experiences for users.",
+    achievements: [
+      "Developed real-time messaging and notification systems for authentic user interactions",
+      "Implemented personalized feed algorithms to eliminate noise and promote meaningful connections",
+      "Built community features including groups and shared experiences for deeper engagement",
+      "Optimized backend infrastructure to handle millions of daily interactions with low latency",
+      "Led integration of privacy controls and content moderation for safe, genuine conversations",
+      "Mentored development team in building scalable social platforms with focus on user experience",
+    ],
+    technologies: ["Next.js", "TypeScript", "JavasScript", "Firebase"],
+    link: "#",
+  },
+  {
     period: "2024 — Present",
     role: "Senior Full Stack Developer",
     company: "FootyFrenzy/Footyflix",
