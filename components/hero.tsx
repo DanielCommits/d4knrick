@@ -1,13 +1,6 @@
 "use client";
 
-import {
-  Github,
-  Linkedin,
-  Mail,
-  Twitter,
-  Facebook,
-  Instagram,
-} from "lucide-react";
+import { Github, Linkedin, Mail, X, Facebook, Instagram } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useState, useEffect } from "react";
 
@@ -89,7 +82,7 @@ export function Hero() {
                 href="https://x.com/d4knrick"
                 className="text-muted-foreground hover:text-accent transition-colors"
               >
-                <Twitter className="w-6 h-6" />
+                <X className="w-6 h-6" />
               </a>
               <a
                 href="https://www.facebook.com/profile.php?id=61579451566720"
